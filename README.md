@@ -1,4 +1,8 @@
-# Syllabus Site
+# Narrativa: O Quilombo Vidal através do Eucalipto
+## O Quilombo Vidal Martins
+- O Quilombo é uma comunidade remanescente localizada no Rio Vermelho, em Florianópolis SC, formada por descendentes de Vidal Martins. Em 2013, a Fundação Cultural Palmares certificou a comunidade como remanescente de quilombo. -
+- O Quilombo também é conhecido por Comunidade de São Roque, e apesar de ser reconhecido enfrenta resistência em ter seu território preservado concomitantemente com o manejo dos parques nacionais Aparados da Serra e Serra Geral, além de estar situado no espaço do parque estadual do Rio Vermelho. -
+- 
 
 This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
 
